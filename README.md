@@ -1,6 +1,8 @@
 ### CVE List
 | CVE ID | Project |
 | ------------------------------------------------------------ | ---------- |
+|CVE-2023-27754|vox2mesh|
+| CVE-2023-26731|Yank Note|
 |CVE-2023-1570|tinydng|
 |CVE-2023-1560|	TinyTIFF|
 | [CVE-2023-1451](https://nvd.nist.gov/vuln/detail/CVE-2023-1451) | MP4v2      |
