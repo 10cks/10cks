@@ -21,7 +21,8 @@
 | tinyKernel | |
 | tinyCompiler | |
 | Profuzzer++| |
-| apt-NOVA| |
+| APT-NOVA| |
+|APT-Dark Magician||
 
 ## My Github Stats
 [![my github data](https://github-readme-stats.vercel.app/api?username=10cks)]()
