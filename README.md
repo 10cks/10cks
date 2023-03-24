@@ -28,6 +28,7 @@
 
 | Address | Progress |
 | ------------------------------------------------------------ | ---------- |
+| [CVE learning](https://github.com/10cks/CVELeaning_V8) | |
 |[BUUOJ](https://buuoj.cn/challenges)| 5/200 |
 |[pwnable.kr](https://pwnable.kr/)| |
 | [pwnable.tw](https://pwnable.tw/)| |
