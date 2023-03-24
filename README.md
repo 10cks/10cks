@@ -26,12 +26,12 @@
 
 ## Practice Project
 
-| Address | Progress |
-| ------------------------------------------------------------ | ---------- |
-| [CVE learning](https://github.com/10cks/CVELeaning_V8) | |
-|[BUUOJ](https://buuoj.cn/challenges)| 5/200 |
-|[pwnable.kr](https://pwnable.kr/)| |
-| [pwnable.tw](https://pwnable.tw/)| |
+| Address | Progress | Write Up
+| ------------------------------------------------------------ | ---------- | ---------- |
+| [CVE learning](https://github.com/10cks/CVELeaning_V8) | | |
+|[BUUOJ](https://buuoj.cn/challenges)| 5/200 | |
+|[pwnable.kr](https://pwnable.kr/)| | |
+| [pwnable.tw](https://pwnable.tw/)| | |
 
 ## My Github Stats
 [![my github data](https://github-readme-stats.vercel.app/api?username=10cks)]()
