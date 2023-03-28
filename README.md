@@ -7,10 +7,11 @@
 </p>
 <p align="center">
 
+## About Me
 
-## My Github Stats
+10cks,pwn/re/fuzz noob.
+
   
-[![my github data](https://github-readme-stats.vercel.app/api?username=10cks)]()
 
 ## CVE List
 
