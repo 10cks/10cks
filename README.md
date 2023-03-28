@@ -1,3 +1,10 @@
+<p align="center"><img src="https://avatars.githubusercontent.com/u/47177550?v=4" width="100"/></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=10cks&style=flat-square&color=blue" alt=""/>
+</p>
+<p align="center">
+
+
 ## My Github Stats
 [![my github data](https://github-readme-stats.vercel.app/api?username=10cks)]()
 
