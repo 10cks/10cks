@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="https://github.com/10cks/10cks/blob/main/cropped.png" width="100"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=10cks&style=flat-square&color=blue" alt=""/>
-</p>
-<p align="center">
-
-## About Me
-
-10cks,pwn/re/fuzz noob.
-
-  
-
 ## CVE List
 
 | CVE ID | Project |CVE ID| Project |
