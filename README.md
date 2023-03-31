@@ -2,6 +2,7 @@
 
 | CVE ID | Project |CVE ID| Project |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ---------- |
+|CVE-2023-1745|KMPlayer||
 |[CVE-2023-27754](https://nvd.nist.gov/vuln/detail/CVE-2023-27754)|vox2mesh| | |
 | CVE-2023-26731|Yank Note| | |
 |[CVE-2023-1570](https://nvd.nist.gov/vuln/detail/CVE-2023-1570)|tinydng| | |
