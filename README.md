@@ -40,7 +40,7 @@
 ### My progress for labs of CS:APP3e
 
 - [x] Lab0: c programming lab
-- [ ] Lab1: data lab
+- [x] Lab1: data lab
 - [ ] Lab2: bomb lab
 - [ ] Lab3: attack lab
 - [ ] Lab4: cache lab
