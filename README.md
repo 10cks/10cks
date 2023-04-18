@@ -33,7 +33,7 @@
 |[BUUOJ](https://buuoj.cn/challenges)| 5/200 | |
 |[pwnable.kr](https://pwnable.kr/)| | |
 |[pwnable.tw](https://pwnable.tw/)| | |
-|[v8 learning](https://github.com/10cks/CVELeaning_V8) | | |
+|[v8_learning](https://github.com/10cks/v8_learning) | | |
 
 ## Labs
 
