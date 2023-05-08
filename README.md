@@ -35,19 +35,3 @@
 |[pwnable.tw](https://pwnable.tw/)| | |
 |[HEVD](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)| | |
 |[v8_learning](https://github.com/10cks/v8_learning) | | |
-
-## Labs
-
-### My progress for labs of CS:APP3e
-
-- [x] Lab0: c programming lab
-- [x] Lab1: data lab
-- [ ] Lab2: bomb lab
-- [ ] Lab3: attack lab
-- [ ] Lab4: cache lab
-- [ ] Lab5: shell lab
-- [ ] Lab6: malloc lab
-- [ ] Lab7: proxy lab
-- [ ] Lab Hidden: proc lab (focus on process control and signal handling, similar to shell lab)
-
-Lab materials are from [student website](http://csapp.cs.cmu.edu/3e/labs.html)
