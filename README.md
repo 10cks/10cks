@@ -18,8 +18,8 @@
 
 |Project|Info |
 | ----------| ---------- | 
-|[csproject](https://github.com/10cks/WechatDump)| |
-|[WechatDump](https://github.com/10cks/csproject)| |
+|[WechatDump](https://github.com/10cks/WechatDump)| |
+|[csproject](https://github.com/10cks/csproject)| |
 | tinySTL | |
 | tinyKernel | |
 | tinyCompiler | |
