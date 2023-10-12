@@ -1,6 +1,6 @@
 ## CVE List
 
-**JUST FOR WORK TASK, PLEASE IGNORE.**
+**JUST FOR WORK COMPANY, PLEASE IGNORE.**
 
 | CVE ID | Project |CVE ID| Project |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ---------- |
