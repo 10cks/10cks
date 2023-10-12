@@ -1,5 +1,7 @@
 ## CVE List
 
+**JUST FOR WORK TASK**
+
 | CVE ID | Project |CVE ID| Project |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ---------- |
 |[CVE-2023-1745](https://nvd.nist.gov/vuln/detail/CVE-2023-1745)|KMPlayer|CVE-2023-26731|Yank Note|
