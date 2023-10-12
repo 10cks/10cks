@@ -18,21 +18,19 @@
 
 |Project|Info |
 | ----------| ---------- | 
-|[WechatDump](https://github.com/10cks/WechatDump)| |
-|[csproject](https://github.com/10cks/csproject)| |
-| tinySTL | |
-| tinyKernel | |
-| tinyCompiler | |
-| Profuzzer++| |
-| APT-NOVA| |
-|APT-Dark Magician||
+|[WechatDump](https://github.com/10cks/WechatDump)| WeChat Infomation Dump |
+|[csproject](https://github.com/10cks/csproject)| Develop base on CobaltStrike |
+| tinySTL | exercise |
+| tinyKernel | exercise |
+| tinyCompiler | exercise |
+| Profuzzer++| Develop base on AFL |
 
 ## Practice Project
 
 | Address | Progress | Write Up
 | ------------------------------------------------------------ | ---------- | ---------- |
 |[how2heap](https://github.com/shellphish/how2heap)| | |
-|[BUUOJ](https://buuoj.cn/challenges)| 5/200 | |
+|[BUUOJ](https://buuoj.cn/challenges)| | |
 |[pwnable.kr](https://pwnable.kr/)| | |
 |[pwnable.tw](https://pwnable.tw/)| | |
 |[HEVD](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)| | |
