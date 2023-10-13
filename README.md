@@ -22,9 +22,10 @@
 | ----------| ---------- | 
 |[WechatDump](https://github.com/10cks/WechatDump)| WeChat Infomation Dump |
 |[csproject](https://github.com/10cks/csproject)| Develop base on CobaltStrike |
-| tinySTL | exercise |
-| tinyKernel | exercise |
-| tinyCompiler | exercise |
+|[BypassLearing](https://github.com/10cks/BypassLearning)| Exercise |
+| tinySTL | Exercise |
+| tinyKernel | Exercise |
+| tinyCompiler | Exercise |
 | Profuzzer++| Develop base on AFL |
 
 ## Practice Project
