@@ -20,7 +20,7 @@
 
 |Project|Info |
 | ----------| ---------- | 
-|[WechatDump](https://github.com/10cks/WechatDump)| WeChat Infomation Dump |
+|[WechatDump](https://github.com/10cks/WechatDump)| WeChat infomation dump C++ version |
 |[csproject](https://github.com/10cks/csproject)| Develop base on CobaltStrike |
 |[BypassLearing](https://github.com/10cks/BypassLearning)| Exercise |
 | [Windows LPE Learning](https://github.com/10cks/Windows-LPE-Learning) | EXP Learning |
