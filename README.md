@@ -23,7 +23,7 @@
 |[WechatDump](https://github.com/10cks/WechatDump)| WeChat Infomation Dump |
 |[csproject](https://github.com/10cks/csproject)| Develop base on CobaltStrike |
 |[BypassLearing](https://github.com/10cks/BypassLearning)| Exercise |
-| [WindowsLPELearning](https://github.com/10cks/Windows-LPE-Learning) | EXP Learning |
+| [Windows LPE Learning](https://github.com/10cks/Windows-LPE-Learning) | EXP Learning |
 | tinySTL | Exercise |
 | tinyKernel | Exercise |
 | tinyCompiler | Exercise |
