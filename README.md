@@ -26,7 +26,7 @@
 |[Windows LPE Learning](https://github.com/10cks/Windows-LPE-Learning) | EXP Learning |
 |[CSbdllspawn](https://github.com/10cks/CSbdllspawn) | CS Extension |
 |[Persistent-penetration](https://github.com/10cks/Persistent-penetration)| CS Extension |
-|[FirePotato](https://github.com/10cks/FirePotato)| CS Extension |
+|[FirePotato](https://github.com/10cks/FirePotato)| Elevate |
 | tinySTL | Exercise |
 | tinyKernel | Exercise |
 | tinyCompiler | Exercise |
