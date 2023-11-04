@@ -25,7 +25,7 @@
 |[BypassLearing](https://github.com/10cks/BypassLearning)| Exercise |
 |[Windows LPE Learning](https://github.com/10cks/Windows-LPE-Learning) | EXP Learning |
 |[CSbdllspawn](https://github.com/10cks/CSbdllspawn) | CS Extension |
-|[Persistent-penetration](https://github.com/10cks/CSbdllspawn)| CS Extension |
+|[Persistent-penetration](https://github.com/10cks/Persistent-penetration)| CS Extension |
 | tinySTL | Exercise |
 | tinyKernel | Exercise |
 | tinyCompiler | Exercise |
