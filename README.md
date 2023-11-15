@@ -31,6 +31,7 @@
 | tinyKernel | Exercise |
 | tinyCompiler | Exercise |
 | Profuzzer++| Develop base on AFL |
+| [asm learn](https://github.com/10cks/asm) | Learning assembly for linux-x64 |
 
 ## Practice Project
 
