@@ -1,3 +1,9 @@
+# About Me
+
+Just a script kid, always be an apprentice.
+
+![](https://badgen.net/github//10cks/fofaEX)
+
 ## CVE List
 
 **JUST FOR COMPANY TASK, PLEASE IGNORE.**
