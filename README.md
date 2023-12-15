@@ -2,7 +2,7 @@
 
 Just a script kid, always be an apprentice.
 
-![](https://badgen.net/github//10cks/fofaEX)
+![](https://badgen.net/github//10cks/10cks)
 
 ## CVE List
 
