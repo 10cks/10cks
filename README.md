@@ -20,6 +20,7 @@
 
 |Project|Info |
 | ----------| ---------- | 
+|[fofaEX](https://github.com/10cks/fofaEX)| fofa redteam client |
 |[WechatDump](https://github.com/10cks/WechatDump)| WeChat infomation dump C++ version |
 |[csproject](https://github.com/10cks/csproject)| Develop base on CobaltStrike |
 |[BypassLearing](https://github.com/10cks/BypassLearning)| Exercise |
