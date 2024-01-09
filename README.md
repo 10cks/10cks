@@ -47,6 +47,7 @@ Just a script kid, always be an apprentice.
 
 | Address | Progress | Write Up
 | ------------------------------------------------------------ | ---------- | ---------- |
+|[JavaSecurityLearningNote](https://github.com/10cks/JavaSecurityLearningNote)|||
 |[how2heap](https://github.com/shellphish/how2heap)| | |
 |[BUUOJ](https://buuoj.cn/challenges)| | |
 |[pwnable.kr](https://pwnable.kr/)| | |
