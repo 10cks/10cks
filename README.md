@@ -2,7 +2,7 @@
 
 Pwn/Re/Redteam
 
-Just a script kid, always be an apprentice.
+Just a script kid and baby pwner, always be an apprentice.
 
 ![](https://badgen.net/github//10cks/10cks)
 
