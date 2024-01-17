@@ -4,8 +4,7 @@ Pwn/Re/Redteam
 
 Just a script kid and baby pwner, always be an apprentice.
 
-![](https://badgen.net/github//10cks/10cks)
-
+![10cks's github stats](https://github-readme-stats.vercel.app/api?username=10cks "![10cks's github stats")
 ## CVE List
 
 **JUST FOR COMPANY TASK, PLEASE IGNORE.**
