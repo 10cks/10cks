@@ -39,3 +39,6 @@ Just a script kid and baby pwner, always be an apprentice.
 | [Windows Pwn](https://github.com/10cks/windowspwn) | | |
 | Linux Pwn | | |
 | [asm learn](https://github.com/10cks/asm) | Learning assembly for linux-x64 |
+
+
+[CVE](https://github.com/10cks/10cks/blob/main/CVELIST.md)
