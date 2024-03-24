@@ -2,6 +2,7 @@
 
 |Project|Info |
 | ----------| ---------- | 
+|[rootkit-myself](https://github.com/10cks/rootkit-myself)| rootkit-myself |
 |[fofaEX](https://github.com/10cks/fofaEX)| redteam client base on fofa api |
 |[WechatDump](https://github.com/10cks/WechatDump)| WeChat infomation dump C++ version |
 |[csproject](https://github.com/10cks/csproject)| Develop base on CobaltStrike |
