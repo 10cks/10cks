@@ -2,6 +2,11 @@
 
 Email: 10cks@protonmail.com
 
+
+## Blog
+
+[kanxue](https://bbs.kanxue.com/homepage-951654.htm) | [QaxSec](https://forum.butian.net/people/19511/community)
+
 ## Security development
 
 
