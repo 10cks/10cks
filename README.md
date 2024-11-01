@@ -1,16 +1,15 @@
-## Hi there 👋
+## 10cks
 
-<!--
-**10cks/10cks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email: 10cks@protonmail.com
 
-Here are some ideas to get you started:
+## Security development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| Project                             | Language    | Description                                                                                                                                                                                                                                                                                                                                                                              |
+|-------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [AC2](https://github.com/10cks/AC2_DEMO) | go/rust/c++ | Myself C2                                                                                                                                                                                                                                                                                                                                                                                |
+| [ShellcodeInjecterGo](https://github.com/10cks/ShellcodeInjecterGo) | Go | Windows shellcode execution tool. Supports multiple injection methods including direct execution, process injection, and process hollowing. Integrated with advanced AES encryption protection.                                                                                                                                                                                          |
+| [LinuxKeeperGo](https://github.com/10cks/LinuxKeeperGo) | Go | Linux persistence tool: Automatically detects persistence methods, currently supports SSH and cron persistence. Ready to use out of the box with no dependencies.                                                                                                                                                                                                                        |
+| [RemoteLoader](https://github.com/10cks/RemoteLoader) | C++ | C++ shellcode loader stager template.                                                                                                                                                                                                                                                                                                                                                    |
+| [fofaEX](https://github.com/10cks/fofaEX) | Java 11 | A red team comprehensive tool based on FOFA API (also supports importing Hawk Eye and Quark files). Can integrate tools as plugins based on templates for automated asset detection. Current plugin features include: alive detection, nuclei template scanning, IP to domain resolution, domain to ICP filing lookup, dismap fingerprint scanning.                                      |
+| [FlashSearch](https://github.com/testzboy/FlashSearch) | Java 11 | FlashSearch is a user-friendly multi-platform asset mapping client that leverages powerful internet search engines, wrapping common APIs into a clean UI for cybersecurity professionals to easily find vulnerabilities on target sites. With its out-of-the-box functionality, FlashSearch simplifies the search process to help penetration testers quickly obtain needed information. |
